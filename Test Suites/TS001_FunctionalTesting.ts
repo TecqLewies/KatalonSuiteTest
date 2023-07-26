@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestSuiteEntity>
+   <description></description>
+   <name>TS001_FunctionalTesting</name>
+   <tag></tag>
+   <isRerun>false</isRerun>
+   <mailRecipient></mailRecipient>
+   <numberOfRerun>3</numberOfRerun>
+   <pageLoadTimeout>30</pageLoadTimeout>
+   <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
+   <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
+   <rerunImmediately>true</rerunImmediately>
+   <testSuiteGuid>b2339222-b6a8-47d8-888a-9af5d82ad110</testSuiteGuid>
+   <testCaseLink>
+      <guid>4dcf83ad-6d05-4db4-bb1b-4c3828662446</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/TC001_Button</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>295e21d3-e0a9-4be6-a094-a423287c452a</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/TC002_ClickRadioButton</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>78df1d36-6718-4619-ab07-a435e9dade49</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/TC003_Inputs</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>16a4baca-1e3f-40b0-9823-ca29dffe0a8c</id>
+         <iterationEntity>
+            <iterationType>ALL</iterationType>
+            <value></value>
+         </iterationEntity>
+         <testDataId>Data Files/TestDataCsv</testDataId>
+      </testDataLink>
+      <usingDataBindingAtTestSuiteLevel>false</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId>16a4baca-1e3f-40b0-9823-ca29dffe0a8c</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>name</value>
+         <variableId>82a1f808-ea99-4a45-8bb3-d91a803d891a</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>16a4baca-1e3f-40b0-9823-ca29dffe0a8c</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>freetext1</value>
+         <variableId>fddb90a1-f2a6-493a-9a94-e5c552b74793</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>16a4baca-1e3f-40b0-9823-ca29dffe0a8c</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>freetext2</value>
+         <variableId>f93456b2-8d46-4d18-a28c-b3d8f5e36680</variableId>
+      </variableLink>
+   </testCaseLink>
+</TestSuiteEntity>

@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Find Location</name>
+   <tag></tag>
+   <elementGuidId>cec2830c-2433-4749-a641-32fac8884917</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@id='position']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#position</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>d6e411b7-ecce-4031-aba0-72e1fd068830</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>position</value>
+      <webElementGuid>4e89e723-f807-481e-8949-50bf266d482f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>button is-link is-outlined</value>
+      <webElementGuid>3b93127d-5966-4c0f-9eb0-d2ff66afd503</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Find Location</value>
+      <webElementGuid>454a975b-7f9c-4a6c-903a-4a7079d06c56</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;position&quot;)</value>
+      <webElementGuid>c9d7923b-2de8-4ac4-b5a8-d74948ac2976</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//button[@id='position']</value>
+      <webElementGuid>d624159b-5577-41d0-bd39-101d2a2d3400</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Get the X &amp; Y co-ordinates'])[1]/following::button[1]</value>
+      <webElementGuid>5c4e5ffd-7530-4659-a1a8-d85a4c6af3b4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Goto Home'])[1]/following::button[1]</value>
+      <webElementGuid>647bfe80-ddf7-4ea2-9b1b-d8339fc505f7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Find the color of the button'])[1]/preceding::button[1]</value>
+      <webElementGuid>2ed00b6f-21f2-4e85-9d23-6145fa191b0a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='What is my color?'])[1]/preceding::button[1]</value>
+      <webElementGuid>2cb519dc-42a9-472c-8978-9814e4bb0f9c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Find Location']/parent::*</value>
+      <webElementGuid>5d2b24d6-3042-43e7-b206-47920dd88a76</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/button</value>
+      <webElementGuid>c3471d95-5ca0-4268-bd74-e86be119a47a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@id = 'position' and (text() = 'Find Location' or . = 'Find Location')]</value>
+      <webElementGuid>cf0519d8-1d98-47f7-983f-050a2ea24473</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

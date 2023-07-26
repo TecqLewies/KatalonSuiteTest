@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>input_checkbox</name>
+   <tag></tag>
+   <elementGuidId>f900c38f-8bc5-4278-af2d-65dda4fff4fd</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[6]/label[2]/input</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>input[type=&quot;checkbox&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>1d8958f7-d33b-44e6-9115-9c622edcc056</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>checkbox</value>
+      <webElementGuid>bc0ac4e6-5069-4872-9992-ce0356ca0046</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[@class=&quot;fontawesome-i2svg-active fontawesome-i2svg-complete&quot;]/body[1]/app-root[1]/app-radio-check[1]/section[@class=&quot;section has-background-white-ter&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;columns is-multiline&quot;]/div[@class=&quot;column is-7-desktop is-8-tablet&quot;]/div[@class=&quot;card&quot;]/div[@class=&quot;card-content&quot;]/div[@class=&quot;field&quot;]/label[@class=&quot;checkbox&quot;]/input[1]</value>
+      <webElementGuid>9fe5540b-19a1-458a-83c3-d5ae53bf1948</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//input[@type='checkbox']</value>
+      <webElementGuid>1935ef92-af7d-4de4-b18a-6a5d45f6b5fb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[6]/label[2]/input</value>
+      <webElementGuid>e2578b2a-413b-4935-8623-b312e497728e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@type = 'checkbox']</value>
+      <webElementGuid>60e01946-3a73-4c75-afdf-48ffe3874cbe</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
